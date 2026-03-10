@@ -23,6 +23,7 @@ function injectStructuredData() {
     if (window.location.pathname.includes('_ko')) language = 'ko';
     else if (window.location.pathname.includes('_zh_cn')) language = 'zh-CN';
     else if (window.location.pathname.includes('_vi')) language = 'vi';
+    else if (window.location.pathname.includes('_ja')) language = 'ja';
     injectBlogPostsStructuredData(language);
   }
 }
@@ -39,7 +40,7 @@ function injectBlogPostStructuredData(language) {
     "@type": "Article",
     "headline": title,
     "description": description,
-    "inLanguage": language === 'ko' ? 'ko-KR' : language === 'zh-CN' ? 'zh-CN' : language === 'vi' ? 'vi-VN' : 'en-US',
+    "inLanguage": language === 'ko' ? 'ko-KR' : language === 'zh-CN' ? 'zh-CN' : language === 'vi' ? 'vi-VN' : language === 'ja' ? 'ja-JP' : 'en-US',
     "datePublished": datePublished,
     "url": url,
     "author": {
@@ -73,6 +74,10 @@ function injectBlogPostsStructuredData(language) {
       ? '中央大学性暴力与治理失败：文章合集'
       : language === 'vi'
       ? 'Các bài viết về bạo lực tình dục và thất bại quản trị tại Đại học Chung-Ang'
+      : language === 'ja'
+      ? '中央大学の性暴力と制度的破綻に関する記事'
+      : language === 'ja'
+      ? '中央大学の性暴力と制度的破綻に関する記事'
       : 'Articles on Sexual Violence & Governance Failure at Chung-Ang University',
     "description": language === 'ko'
       ? '중앙대학교의 성폭력 사례, 두산 재정 범죄, 제도적 실패를 기록한 기사 모음'
@@ -80,8 +85,12 @@ function injectBlogPostsStructuredData(language) {
       ? '记录中央大学性暴力事件、斗山财务犯罪及制度失败的文章合集'
       : language === 'vi'
       ? 'Tập hợp các bài viết ghi lại bạo lực tình dục, tội phạm tài chính Doosan và thất bại thể chế tại Đại học Chung-Ang'
+      : language === 'ja'
+      ? '中央大学の性暴力事件、斗山の金融犯罪、および制度的破綻を記録した記事のコレクション'
+      : language === 'ja'
+      ? '中央大学の性暴力事件、斗山の金融犯罪、および制度的破綻を記録した記事のコレクション'
       : 'Collection of articles documenting sexual violence, Doosan financial crimes, and institutional failures at Chung-Ang University',
-    "inLanguage": language === 'ko' ? 'ko-KR' : language === 'zh-CN' ? 'zh-CN' : language === 'vi' ? 'vi-VN' : 'en-US',
+    "inLanguage": language === 'ko' ? 'ko-KR' : language === 'zh-CN' ? 'zh-CN' : language === 'vi' ? 'vi-VN' : language === 'ja' ? 'ja-JP' : 'en-US',
     "mainEntity": {
       "@type": "ItemList",
       "itemListOrder": "https://schema.org/ItemListOrderDescending",
@@ -93,7 +102,7 @@ function injectBlogPostsStructuredData(language) {
           "@type": "Article",
           "headline": post.title,
           "description": post.description,
-          "inLanguage": language === 'ko' ? 'ko-KR' : language === 'zh-CN' ? 'zh-CN' : language === 'vi' ? 'vi-VN' : 'en-US',
+          "inLanguage": language === 'ko' ? 'ko-KR' : language === 'zh-CN' ? 'zh-CN' : language === 'vi' ? 'vi-VN' : language === 'ja' ? 'ja-JP' : 'en-US',
           "datePublished": post.datePublished,
           "url": post.url,
           "author": {
@@ -126,6 +135,10 @@ function getBlogPosts(language) {
         ? '合作院校页面空白：亚洲大学与弘益大学 — 2026年3月'
         : language === 'vi'
         ? 'Trang Đối Tác Để Trống: ĐH Ajou & ĐH Hongik — Tháng 3/2026'
+        : language === 'ja'
+        ? '空白の提携ページ：亜州大学および弘益大学 — 2026年3月'
+        : language === 'ja'
+        ? '空白の提携ページ：亜州大学および弘益大学 — 2026年3月'
         : 'Partner Pages Blank: Ajou & Hongik Universities (March 2026)',
       description: language === 'ko'
         ? '2026년 3월 8일, 아주대학교와 홍익대학교의 공식 파트너십 페이지에서 중앙대와의 활성 파트너십이 확인되지 않음.'
@@ -133,6 +146,10 @@ function getBlogPosts(language) {
         ? '2026年3月8日截图显示，亚洲大学和弘益大学的合作院校页面均未列出与中央大学的现行合作关系。'
         : language === 'vi'
         ? 'Ảnh chụp màn hình ngày 8/3/2026 cho thấy trang đối tác của ĐH Ajou và ĐH Hongik không có quan hệ đối tác hoạt động với CAU.'
+        : language === 'ja'
+        ? '2026年3月8日に撮影されたスクリーンショットにより、亜州大学および弘益大学の提携ページにおいて、中央大学との活発な提携関係が示されていないことが確認できる。'
+        : language === 'ja'
+        ? '2026年3月8日に撮影されたスクリーンショットにより、亜州大学および弘益大学の提携ページにおいて、中央大学との活発な提携関係が示されていないことが確認できる。'
         : 'Screenshot evidence from March 8, 2026 showing Ajou University and Hongik University partner pages with no active partnership with Chung-Ang University.',
       datePublished: '2026-03-08',
       url: language === 'ko'
@@ -141,6 +158,10 @@ function getBlogPosts(language) {
         ? base + 'zh_ch/cau_partner_pages_blank.html'
         : language === 'vi'
         ? base + 'vi/cau_partner_pages_blank.html'
+        : language === 'ja'
+        ? base + 'ja/cau_partner_pages_blank.html'
+        : language === 'ja'
+        ? base + 'ja/cau_partner_pages_blank.html'
         : base + 'en/cau_partner_pages_blank.html'
     }
   ];

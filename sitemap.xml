@@ -10,6 +10,8 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
@@ -26,6 +28,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
@@ -66,6 +70,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
@@ -82,6 +88,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
@@ -115,4 +123,14 @@
     <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/blog_posts/vi/cau_partner_pages_blank.html"/>
   </url>
 
+
+  <url>
+    <loc>https://chungang.genderwatchdog.org/timeline_ja.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chungang.genderwatchdog.org/timeline_ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
+  </url>
 </urlset>
