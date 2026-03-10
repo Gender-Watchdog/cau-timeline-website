@@ -11,6 +11,8 @@
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
     <image:image>
       <image:loc>https://chungang.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png</image:loc>
       <image:title>Gender Watchdog Logo</image:title>
@@ -25,6 +27,8 @@
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
     <image:image>
       <image:loc>https://chungang.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png</image:loc>
       <image:title>Gender Watchdog Logo</image:title>
@@ -39,6 +43,8 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/blog_posts/en/cau_partner_pages_blank.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/blog_posts/ko/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/blog_posts/zh_ch/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/blog_posts/vi/cau_partner_pages_blank.html"/>
   </url>
 
   <!-- Blog post: Partner pages blank (Korean) -->
@@ -49,6 +55,64 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/blog_posts/en/cau_partner_pages_blank.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/blog_posts/ko/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/blog_posts/zh_ch/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/blog_posts/vi/cau_partner_pages_blank.html"/>
+  </url>
+
+  <!-- Simplified Chinese Version -->
+  <url>
+    <loc>https://chungang.genderwatchdog.org/timeline_zh_cn.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
+    <image:image>
+      <image:loc>https://chungang.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png</image:loc>
+      <image:title>Gender Watchdog Logo</image:title>
+    </image:image>
+  </url>
+
+  <!-- Vietnamese Version -->
+  <url>
+    <loc>https://chungang.genderwatchdog.org/timeline_vi.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/timeline_ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/timeline_zh_cn.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/timeline_vi.html"/>
+    <image:image>
+      <image:loc>https://chungang.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png</image:loc>
+      <image:title>Gender Watchdog Logo</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog post: Partner pages blank (Simplified Chinese) -->
+  <url>
+    <loc>https://chungang.genderwatchdog.org/blog_posts/zh_ch/cau_partner_pages_blank.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/blog_posts/en/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/blog_posts/ko/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/blog_posts/zh_ch/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/blog_posts/vi/cau_partner_pages_blank.html"/>
+  </url>
+
+  <!-- Blog post: Partner pages blank (Vietnamese) -->
+  <url>
+    <loc>https://chungang.genderwatchdog.org/blog_posts/vi/cau_partner_pages_blank.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chungang.genderwatchdog.org/blog_posts/en/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chungang.genderwatchdog.org/blog_posts/ko/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://chungang.genderwatchdog.org/blog_posts/zh_ch/cau_partner_pages_blank.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://chungang.genderwatchdog.org/blog_posts/vi/cau_partner_pages_blank.html"/>
   </url>
 
 </urlset>

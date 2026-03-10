@@ -1,0 +1,173 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Lột Trần CAU: Bạo Lực Tình Dục, Tội Phạm Tài Chính & Thất Bại Thể Chế",
+    "description": "Ghi lại 9 thủ phạm bạo lực tình dục được xác nhận, tội phạm tài chính của Doosan và các vụ che đậy có hệ thống tại Đại học Chung-Ang (CAU), Seoul, Hàn Quốc. 1998–2026.",
+    "url": "https://chungang.genderwatchdog.org/timeline_vi.html",
+    "datePublished": "2026-03-09T12:00:00+09:00",
+    "dateModified": "2026-03-09T12:00:00+09:00",
+    "inLanguage": "vi",
+    "author": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Dòng thời gian bạo lực tình dục và thất bại quản trị tại Đại học Chung-Ang",
+      "description": "Biên niên sự kiện bạo lực tình dục, tội phạm tài chính và thất bại thể chế được xác nhận tại CAU từ 1998 đến 2026",
+      "numberOfItems": 18,
+      "itemListOrder": "Ascending",
+      "itemListElement": [
+        {
+          "@type": "Event",
+          "name": "GS khoa Vũ đạo: Cưỡng hiếp nhiều lần, bị kết án tù",
+          "startDate": "1998-02-05",
+          "endDate": "2003-11-10",
+          "description": "Ba sinh viên khoa Vũ đạo của CAU tố giác giáo sư cưỡng bức và hiếp dâm nhiều lần. GS kiêm Giám đốc Đoàn Vũ đạo Quốc gia. Bị kết án 3 năm tù (1999), giảm 1 năm sau kháng cáo (2001), bị khởi tố lại vì xúi giục khai gian (2003).",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://namu.wiki/w/%EA%B5%90%EC%88%98/%EB%B2%94%EC%A3%84"
+        },
+        {
+          "@type": "Event",
+          "name": "Doosan Tiếp Quản — Xóa Bỏ Quản Trị Đại Học Dân Chủ",
+          "startDate": "2008-05",
+          "description": "Tập đoàn Doosan tiếp quản pháp nhân CAU. Trong 80 ngày, Park Yong-seong bãi bỏ bầu trực tiếp hiệu trưởng, thay bằng bổ nhiệm do Doosan kiểm soát. CAU không còn là cơ sở học thuật tự quản.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html"
+        },
+        {
+          "@type": "Event",
+          "name": "Ngân Hàng Woori Nhận Lại Quả 10 Tỷ Won",
+          "startDate": "2008",
+          "description": "Cựu Hiệu trưởng CAU Park Beom-hoon bị nghi trao quyền dịch vụ tài chính độc quyền cho ngân hàng Woori đổi lấy 10 tỷ won 'quyên góp'. Công tố viên phát hiện một phần tiền không dùng cho nhà trường.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori"
+        },
+        {
+          "@type": "Event",
+          "name": "Hiệu Trưởng Park Beom-hoon Đối Tượng Hóa Tình Dục Sinh Viên Nữ Công Khai",
+          "startDate": "2009-02",
+          "description": "Hiệu trưởng Park Beom-hoon có phát ngôn công khai mô tả sinh viên nữ như đối tượng thỏa mãn dục vọng, được OhmyNews (23/2/2009) và Kyunghyang Shinmun (26/2/2009) đưa tin.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://en.wikipedia.org/wiki/Chung-Ang_University"
+        },
+        {
+          "@type": "Event",
+          "name": "Báo Chí Sinh Viên Bị Đàn Áp, Nhà Hoạt Động Bị Giám Sát",
+          "startDate": "2009",
+          "endDate": "2010",
+          "description": "Nhà trường đàn áp các ấn phẩm sinh viên có nội dung phê bình. Hội Sinh viên kiện Quỹ Doosan với cáo buộc theo dõi các nhà hoạt động sinh viên.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "GS K (Khoa Văn Hóa Châu Á): Cưỡng Hiếp Nhiều Nữ Học Viên + Biển Thủ Kinh Phí Nghiên Cứu",
+          "startDate": "2009",
+          "endDate": "2018",
+          "description": "GS K liên tục cưỡng hiếp nhiều nữ học viên cao học hơn 6 năm. Bốn nạn nhân cùng tố giác vào tháng 5/2018. Trung tâm Nhân quyền kiến nghị sa thải. Cũng bị phát hiện biển thủ kinh phí nghiên cứu.",
+          "location": { "@type": "Place", "name": "Khoa Văn hóa Châu Á, CAU, Seoul" },
+          "url": "https://www.hankyung.com/article/201806047731Y"
+        },
+        {
+          "@type": "Event",
+          "name": "Giảng Viên A (Khoa Điêu Khắc): Tấn Công 4 Nữ Sinh, Cố Bắt Cóc Vào Motel, Che Giấu 5 Năm",
+          "startDate": "2013-06-12",
+          "endDate": "2018-03-20",
+          "description": "Đêm 12-13/6/2013, giảng viên thỉnh giảng A tấn công tình dục 4 nữ sinh và cố kéo họ vào motel. GS B gây áp lực dàn xếp riêng. Nhà trường thoái thác vì A là giảng viên thỉnh giảng. Sau 5 năm, hội cựu sinh viên công khai tố cáo tháng 3/2018.",
+          "location": { "@type": "Place", "name": "Khoa Điêu khắc, CAU, Seoul" },
+          "url": "https://www.hankyung.com/society/article/201803208255Y"
+        },
+        {
+          "@type": "Event",
+          "name": "GS J: Thừa Nhận Tấn Công; Thủ Tục Kỷ Luật Bị Trì Hoãn Có Chủ Ý; Được Tuyển Dụng Lại Tại Đại Học Nga",
+          "startDate": "2014",
+          "description": "GS J thừa nhận hành vi tấn công tình dục. Hội đồng Nhân sự cố tình trì hoãn xử lý để ông từ chức trước. Sau đó được Đại học Liên bang Đông Bắc (Nga) tuyển dụng mà không có hồ sơ kỷ luật.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "Điều Tra Gian Lận Kế Toán Quỹ — 20,3 Tỷ Won",
+          "startDate": "2015-04",
+          "description": "Quỹ giáo dục CAU bị điều tra vì gian lận kế toán hơn 20,3 tỷ won. Park Yong-seong đồng thời từ chức chủ tịch quỹ CAU, chủ tịch Doosan Heavy Industries và chủ tịch danh dự Ủy ban Olympic Hàn Quốc.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html"
+        },
+        {
+          "@type": "Event",
+          "name": "Park Beom-hoon Bị Bắt — Hối Lộ, Tham Nhũng, Bị Kết Án, Bị Giam",
+          "startDate": "2015-05",
+          "description": "Cựu Hiệu trưởng CAU kiêm Trợ lý cấp cao Phủ Tổng thống Park Beom-hoon bị bắt sau 19 giờ thẩm vấn. Tội danh: nhận 1,8 tỷ won qua quỹ ma, hoa hồng bất động sản, áp lực Bộ Giáo dục, bổ nhiệm con gái làm GS. Bị kết án và giam giữ, được thả tháng 5/2017.",
+          "location": { "@type": "Place", "name": "Seoul, Hàn Quốc" },
+          "url": "https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori"
+        },
+        {
+          "@type": "Event",
+          "name": "Chủ Tịch HĐQT Gửi Email Đe Dọa Nêu Tên Nữ GS Khoa Đức Ngữ",
+          "startDate": "2015",
+          "description": "Park Yong-seong gửi email đe dọa khoảng 20 giảng viên phản đối, trực tiếp nêu tên một nữ GS khoa Đức ngữ là mục tiêu sa thải. Thời điểm đó 92% giảng viên phản đối kế hoạch tái cơ cấu.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html"
+        },
+        {
+          "@type": "Event",
+          "name": "GS L (Cùng Khoa Với J & M): Cưỡng Hiếp Nữ Học Viên, Bị Sa Thải",
+          "startDate": "2017",
+          "description": "GS L cùng khoa với J (2014) và M (2018) cưỡng hiếp một nữ học viên cao học và bị sa thải (cấm 3 năm). Không được truyền thông đưa tin. Ba thủ phạm khác nhau trong cùng khoa trong 4 năm cho thấy văn hóa khoa, không phải sai phạm cá nhân.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "GS B (Khoa Nghiên Cứu Văn Hóa): Nhiều Nạn Nhân Tố Giác; Kiến Nghị Buộc Thôi Việc",
+          "startDate": "2018-03",
+          "description": "Nhiều nạn nhân tố giác GS B về hành vi bạo lực tình dục liên tục. Trung tâm Nhân quyền kiến nghị buộc thôi việc (파면 - hình thức cao nhất, cấm vĩnh viễn) vào tháng 5/2018.",
+          "location": { "@type": "Place", "name": "Khoa Nghiên cứu Văn hóa, CAU, Seoul" },
+          "url": "https://www.news1.kr/society/general-society/3487887"
+        },
+        {
+          "@type": "Event",
+          "name": "GS Khoa Nhật Ngữ: Quấy Rối Tình Dục Liên Tục Tại Các Buổi Nhậu",
+          "startDate": "2018",
+          "description": "Một GS khoa Nhật ngữ của CAU bị truyền thông đưa tin vào năm 2018 trong làn sóng #MeToo về hành vi thường xuyên quấy rối tình dục sinh viên tại các buổi tiệc rượu.",
+          "location": { "@type": "Place", "name": "Khoa Nhật ngữ, CAU, Seoul" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "GS M: Cưỡng Hiếp Có Dùng Thuốc; Phủ Nhận Cáo Buộc; Nghi Vẫn Còn Trong CSDL Nhà Nghiên Cứu",
+          "startDate": "2018",
+          "description": "GS M cùng khoa với J và L dùng thuốc làm bất tỉnh nạn nhân rồi cưỡng hiếp. Phủ nhận toàn bộ. Bị sa thải (cấm 3 năm). Theo Namu Wiki, sau đó vẫn đăng ký trong hệ thống RISS với tư cách thành viên CAU.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "GS A (Khoa Tiếng Anh): Cưỡng Hiếp Bằng Thuốc; Nạn Nhân Chẩn Đoán PTSD; Thủ Phạm Tiếp Tục Tiếp Cận",
+          "startDate": "2018-11",
+          "description": "GS A xâm hại nữ sinh mất ý thức do thuốc an thần và rượu. Sau đó gọi điện đêm khuya, yêu cầu gặp mặt. Nạn nhân được chẩn đoán PTSD và điều trị tâm lý. Ủy ban Đặc biệt xác nhận A còn nhắn tin ít nhất 2 nữ sinh khác cùng đêm.",
+          "location": { "@type": "Place", "name": "Khoa Tiếng Anh, CAU, Seoul" },
+          "url": "https://www.news1.kr/society/general-society/3487887"
+        },
+        {
+          "@type": "Event",
+          "name": "GS A Bị Sa Thải — Sinh Viên Yêu Cầu Buộc Thôi Việc Trước Cổng Trường",
+          "startDate": "2019-06-11",
+          "description": "CAU xác nhận sa thải cuối cùng GS A (cấm 3 năm) ngày 11/6/2019. Sinh viên biểu tình yêu cầu buộc thôi việc vĩnh viễn (파면). Trong 9 thủ phạm đã xác nhận từ 1998-2019: số trường hợp bị buộc thôi việc vĩnh viễn được xác nhận — bằng không.",
+          "location": { "@type": "Place", "name": "Đại học Chung-Ang, Seoul, Hàn Quốc" },
+          "url": "https://www.news1.kr/society/incident-accident/3648886"
+        },
+        {
+          "@type": "Event",
+          "name": "Trang Đối Tác Để Trống: ĐH Ajou & ĐH Hongik (Tháng 3/2026)",
+          "startDate": "2026-03-08",
+          "description": "Gender Watchdog chụp màn hình trang đối tác chính thức của ĐH Ajou và ĐH Hongik ngày 8/3/2026. Cả hai không hiển thị quan hệ đối tác đang hoạt động với CAU — trùng khớp mô hình tài liệu đối tác giả mạo của ĐH Dongguk.",
+          "location": { "@type": "Place", "name": "Hàn Quốc" },
+          "url": "https://chungang.genderwatchdog.org/blog_posts/vi/cau_partner_pages_blank.html"
+        }
+      ]
+    }
+  }
+]

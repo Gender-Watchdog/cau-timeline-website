@@ -1,0 +1,173 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "中央大曝光：性暴力、金融犯罪与制度性失职",
+    "description": "记录中央大学（CAU）9名确认的性暴力施害者、斗山金融犯罪及系统性掩盖行为。1998–2026年。",
+    "url": "https://chungang.genderwatchdog.org/timeline_zh_cn.html",
+    "datePublished": "2026-03-09T12:00:00+09:00",
+    "dateModified": "2026-03-09T12:00:00+09:00",
+    "inLanguage": "zh-CN",
+    "author": {
+      "@type": "Organization",
+      "name": "Gender Watchdog"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "中央大学性暴力及治理失职时间线",
+      "description": "1998年至2026年中央大学确认性暴力案件、金融犯罪及制度性失职的时间线记录",
+      "numberOfItems": 18,
+      "itemListOrder": "Ascending",
+      "itemListElement": [
+        {
+          "@type": "Event",
+          "name": "舞蹈系教授：多次性侵学生，被判实刑",
+          "startDate": "1998-02-05",
+          "endDate": "2003-11-10",
+          "description": "中央大舞蹈学系三名学生就教授长期强迫和性侵犯提起刑事指控。该教授同时担任国立舞蹈团团长。判有期徒刑3年（1999），上诉后改为1年（2001），因唆使伪证再次起诉（2003）。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://namu.wiki/w/%EA%B5%90%EC%88%98/%EB%B2%94%EC%A3%84"
+        },
+        {
+          "@type": "Event",
+          "name": "斗山集团收购——废除民主校务管理体制",
+          "startDate": "2008-05",
+          "description": "斗山集团收购中央大财团。收购后80天内，朴容晟废除校长直选制，代之以斗山控制的任命制。中央大从此不再是自我管理的学术机构。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html"
+        },
+        {
+          "@type": "Event",
+          "name": "友利银行百亿韩元回扣案",
+          "startDate": "2008",
+          "description": "前中央大校长朴范勋涉嫌授予友利银行校园独家金融服务权，换取100亿韩元"捐款"。检察官发现部分资金从未用于学校。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori"
+        },
+        {
+          "@type": "Event",
+          "name": "朴范勋校长公开将女学生性对象化",
+          "startDate": "2009-02",
+          "description": "朴范勋校长公开发表言论将女学生描述为满足男性性欲的对象，遭OhmyNews（2009.2.23）及《京乡新闻》（2009.2.26）报道。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://en.wikipedia.org/wiki/Chung-Ang_University"
+        },
+        {
+          "@type": "Event",
+          "name": "学生媒体遭压制，活动人士被监控",
+          "startDate": "2009",
+          "endDate": "2010",
+          "description": "校方压制批评性学生刊物。总学生会就斗山财团涉嫌监控学生活动人士提起诉讼。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "K教授（亚洲文化学部）：多名女研究生遭连续性侵 + 侵吞科研经费",
+          "startDate": "2009",
+          "endDate": "2018",
+          "description": "亚洲文化学部K教授在长达6年以上时间里对多名女研究生实施反复性侵。2018年5月，4名受害者同时举报。人权中心建议开除。同案发现科研经费侵吞行为。",
+          "location": { "@type": "Place", "name": "中央大学亚洲文化学部，首尔" },
+          "url": "https://www.hankyung.com/article/201806047731Y"
+        },
+        {
+          "@type": "Event",
+          "name": "A讲师（雕塑系）：4名女学生遭性侵，被试图强带至旅馆，5年掩盖",
+          "startDate": "2013-06-12",
+          "endDate": "2018-03-20",
+          "description": "2013年6月12至13日夜间，兼职讲师A在期末聚会上性侵4名女学生并试图将其带至旅馆。同事B教授向受害者施压要求私下和解。校方以讲师编制为由拒绝处分。5年掩盖后，2018年3月校友会公开曝光。",
+          "location": { "@type": "Place", "name": "中央大学雕塑系，首尔" },
+          "url": "https://www.hankyung.com/society/article/201803208255Y"
+        },
+        {
+          "@type": "Event",
+          "name": "J教授：承认性侵；纪律程序被故意拖延使其辞职；后在俄罗斯大学再度任职",
+          "startDate": "2014",
+          "description": "J教授承认性侵行为。人事委员会故意拖延正式处分，使其在处分前得以辞职。在无任何纪律记录的情况下，其被俄罗斯远东联邦大学重新录用。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "财团会计舞弊调查——203亿韩元",
+          "startDate": "2015-04",
+          "description": "中央大教育基金会因203亿韩元会计舞弊接受调查。朴容晟同时辞去中央大财团理事长、斗山重工业董事长及韩国奥委会名誉会长职务。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html"
+        },
+        {
+          "@type": "Event",
+          "name": "朴范勋被捕——受贿、违规、定罪入狱",
+          "startDate": "2015-05",
+          "description": "前中央大校长兼青瓦台首席秘书朴范勋接受19小时问询后被捕。罪名包括：通过空壳基金会收受18亿韩元、房地产回扣、向教育部施压强推校区合并、为其女儿谋取教职等。被定罪入狱，2017年5月获释。",
+          "location": { "@type": "Place", "name": "首尔，韩国" },
+          "url": "https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori"
+        },
+        {
+          "@type": "Event",
+          "name": "财团理事长点名威胁德国系女教授",
+          "startDate": "2015",
+          "description": "理事长朴容晟向约20名反对教师发出威胁邮件，明确点名德国系一名女教授为拟解雇对象。当时全体教工中有92%投票反对学校改革方案。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html"
+        },
+        {
+          "@type": "Event",
+          "name": "L教授（与J、M教授同系）：性侵女研究生，被解雇",
+          "startDate": "2017",
+          "description": "与2014年（J）和2018年（M）案同属一个院系的L教授性侵一名女研究生后遭解雇（禁止受聘3年）。此事当时未见媒体报道。同一院系4年内3名不同施暴者揭示系科文化而非个人失德。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "B教授（文化研究系）：多名受害者举报；人权中心建议开除",
+          "startDate": "2018-03",
+          "description": "多名受害者举报文化研究系B教授反复实施性暴力。人权中心2018年5月建议予以开除（最高处分，永久禁止受聘）。",
+          "location": { "@type": "Place", "name": "中央大学文化研究系，首尔" },
+          "url": "https://www.news1.kr/society/general-society/3487887"
+        },
+        {
+          "@type": "Event",
+          "name": "日语日文学系教授：在酒局上习惯性性骚扰",
+          "startDate": "2018",
+          "description": "中央大日语日文学系一名教授在2018年#MeToo浪潮中被媒体曝光，长期在酒局上对学生实施性骚扰。",
+          "location": { "@type": "Place", "name": "中央大学日语日文学系，首尔" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "M教授：以药物实施强奸；否认指控；解雇后疑似仍在研究人员数据库挂名",
+          "startDate": "2018",
+          "description": "与J、L教授同系的M教授用药物致受害者失去意识后实施强奸，并全盘否认指控。遭解雇（禁止受聘3年）。据나무위키显示，处分后仍以中央大在职人员名义登记在韩国研究者信息系统中。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
+        },
+        {
+          "@type": "Event",
+          "name": "A教授（英文系）：以药物强奸；受害者确诊PTSD；施暴者持续骚扰",
+          "startDate": "2018-11",
+          "description": "英文系A教授趁一名女学生因处方安眠药与饮酒失去意识之机实施性侵。事后持续否认、深夜频繁致电、要求直接见面。受害者被诊断为PTSD并开始精神科治疗。调查披露当晚还联系至少另外2名女学生——呈现猎物行为模式。",
+          "location": { "@type": "Place", "name": "中央大学英文系，首尔" },
+          "url": "https://www.news1.kr/society/general-society/3487887"
+        },
+        {
+          "@type": "Event",
+          "name": "A教授被解雇——学生在校门前要求开除",
+          "startDate": "2019-06-11",
+          "description": "中央大于2019年6月11日确认对英文系A教授最终解雇处分（禁止受聘3年）。学生在校门前集会要求予以开除（永久禁止）。1998至2019年中央大所有9名确认施暴者中：确认被永久开除的案例数——零。",
+          "location": { "@type": "Place", "name": "中央大学，首尔，韩国" },
+          "url": "https://www.news1.kr/society/incident-accident/3648886"
+        },
+        {
+          "@type": "Event",
+          "name": "合作院校页面空白：亚洲大学与弘益大学（2026年3月）",
+          "startDate": "2026-03-08",
+          "description": "Gender Watchdog于2026年3月8日截取亚洲大学和弘益大学官方合作院校页面截图。两所高校页面均未显示与中央大的现行合作关系，与东国大学虚构合作关系文件模式如出一辙。",
+          "location": { "@type": "Place", "name": "韩国" },
+          "url": "https://chungang.genderwatchdog.org/blog_posts/zh_ch/cau_partner_pages_blank.html"
+        }
+      ]
+    }
+  }
+]
