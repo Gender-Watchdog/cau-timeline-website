@@ -9,4 +9,4 @@ defaults:
       path: ""
     values:
       layout: "default"
-exclude: ['.venv', 'vendor', 'docs', 'timeline.md', 'Gemfile', 'Gemfile.lock', 'copilot-instructions.md']
+exclude: ['.venv', 'vendor', 'docs', 'timeline.md', 'Gemfile', 'Gemfile.lock', 'copilot-instructions.md', 'evidence']
