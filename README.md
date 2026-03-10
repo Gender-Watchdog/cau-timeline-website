@@ -1,8 +1,9 @@
-# CAU Exposed: Sexual Violence, Financial Crimes & Institutional Failure
+# <img src="imgs/favicons/gender_watchdog_favicon_128x128.png" width="40" align="left" style="margin-right:15px"> CAU Exposed: Sexual Violence, Financial Crimes & Institutional Failure
+<br>
 
 A public-interest documentation project tracking confirmed sexual violence perpetrators, Doosan financial crimes, and governance failures at Chung-Ang University (CAU / 중앙대학교) in Seoul, South Korea.
 
-**Live site:** [https://chungang.genderwatchdog.org](https://chungang.genderwatchdog.org)
+**Live site:** [https://chungang.genderwatchdog.org](https://chungang.genderwatchdog.org) (The domain `cau.genderwatchdog.org` would also work if configured in GitHub Pages, but currently set to `chungang`)
 
 ---
 
@@ -13,7 +14,7 @@ This timeline documents:
 - **9 confirmed sexual violence perpetrators** across 7 departments at CAU (1998–2019)
 - **Doosan Group financial crimes** including ₩20.3 billion in accounting fraud and ₩1.8 billion in bribery
 - **Institutional cover-ups**: disciplinary procedure manipulation, perpetrators allowed to resign before formal sanctions, re-hiring at other universities
-- **Partner university accountability**: blank partner pages at Ajou and Hongik universities as of March 2026
+- **Phantom Partnership Audit**: documented 27% reciprocity rate among CAU's top 63 claimed international partners, followed by entire database deletion in March 2026
 
 The project is maintained by [Gender Watchdog](https://genderwatchdog.org) and published under open licenses (see below).
 
@@ -25,6 +26,7 @@ The project is maintained by [Gender Watchdog](https://genderwatchdog.org) and p
 |----------|------|
 | English | `index.html` |
 | 한국어 (Korean) | `timeline_ko.html` |
+| 日本语 (Japanese) | `timeline_ja.html` |
 | 简体中文 (Simplified Chinese) | `timeline_zh_cn.html` |
 | Tiếng Việt (Vietnamese) | `timeline_vi.html` |
 
@@ -36,15 +38,17 @@ The project is maintained by [Gender Watchdog](https://genderwatchdog.org) and p
 _config.yml          — Jekyll site configuration
 CNAME                — chungang.genderwatchdog.org
 css/timeline.css     — CAU color scheme (navy #0033A0, red #CC0000)
-_data/ui_text.yml    — UI strings (en + ko + zh-CN + vi)
+_data/ui_text.yml    — UI strings (en + ko + ja + zh-CN + vi)
 _layouts/            — timeline.html, post.html
 _includes/           — head, footer, support section, resources section
 index.html           — English timeline (18 events)
 timeline_ko.html     — Korean timeline (18 events)
+timeline_ja.html     — Japanese timeline (18 events)
 timeline_zh_cn.html  — Simplified Chinese timeline (18 events)
 timeline_vi.html     — Vietnamese timeline (18 events)
 blog_posts/en/       — English blog posts
 blog_posts/ko/       — Korean blog posts
+blog_posts/ja/       — Japanese blog posts
 blog_posts/zh_ch/    — Simplified Chinese blog posts
 blog_posts/vi/       — Vietnamese blog posts
 imgs/                — Images and evidence screenshots
