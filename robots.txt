@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dongguk.genderwatchdog.org/sitemap.xml 
+Sitemap: https://chungang.genderwatchdog.org/sitemap.xml

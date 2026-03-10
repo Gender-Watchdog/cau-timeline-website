@@ -1,17 +1,17 @@
-/* Timeline CSS */
+/* Timeline CSS — Chung-Ang University (CAU) */
 :root {
   --timeline-track-color: #ccc;
-  --timeline-dot-color: #e74c3c;
-  --timeline-dot-hover-color: #c0392b;
+  --timeline-dot-color: #0033A0;
+  --timeline-dot-hover-color: #00248f;
   --event-bg-color: #f5f5f5;
-  --event-hover-bg-color: #e9e9e9;
-  --event-title-color: #e74c3c;
-  --tooltip-bg-color: rgba(51, 51, 51, 0.95);
-  --tooltip-border-color: #444;
+  --event-hover-bg-color: #e8edf7;
+  --event-title-color: #0033A0;
+  --tooltip-bg-color: rgba(0, 36, 143, 0.97);
+  --tooltip-border-color: #00248f;
   --tooltip-text-color: #fff;
-  --language-link-color: #3498db;
-  --language-link-active-color: #e74c3c;
-  --language-link-hover-color: #2980b9;
+  --language-link-color: #0033A0;
+  --language-link-active-color: #CC0000;
+  --language-link-hover-color: #00248f;
 }
 
 * {

@@ -2,278 +2,181 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "동국대학교의 진실: 인종화된 성폭력 타임라인",
-    "description": "동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹을 기록하는 인터랙티브 타임라인(2008-2025).",
-    "url": "https://dongguk.genderwatchdog.org/timeline_ko.html",
-    "datePublished": "2025-04-05T12:00:00+09:00",
-    "dateModified": "2025-05-15T12:00:00+09:00",
+    "name": "중앙대 폭로: 성폭력·재정 범죄·제도적 실패",
+    "description": "중앙대학교(CAU)에서의 확인된 성폭력 가해자 9명, 두산 재정 범죄, 그리고 조직적 은폐를 기록합니다. 1998–2026.",
+    "url": "https://chungang.genderwatchdog.org/timeline_ko.html",
+    "datePublished": "2026-03-09T12:00:00+09:00",
+    "dateModified": "2026-03-09T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "Gender Watchdog"
     },
     "mainEntity": {
       "@type": "ItemList",
-      "name": "동국대학교 인종화된 성폭력 타임라인",
-      "description": "2008년부터 2025년까지 동국대학교의 인종화된 성폭력 사건, 제도적 실패, 옹호 활동의 연대기적 기록",
-      "numberOfItems": 16,
+      "name": "중앙대학교 성폭력 및 거버넌스 실패 타임라인",
+      "description": "1998년부터 2026년까지 중앙대학교에서 확인된 성폭력 사건, 재정 범죄, 제도적 실패의 연대기적 기록",
+      "numberOfItems": 18,
       "itemListOrder": "Ascending",
       "itemListElement": [
         {
           "@type": "Event",
-          "name": "신게이트 스캔들",
+          "name": "무용과 교수: 남학생 상습 성폭행, 실형 선고",
+          "startDate": "1998-02-05",
+          "endDate": "2003-11-10",
+          "description": "중앙대 무용과 학생 3명이 교수를 형사 고소. 상습 강압 및 성폭행 주장. 국립무용단장도 겸임. 징역 3년(1999), 항소 후 1년(2001), 위증교사 재기소(2003).",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://namu.wiki/w/%EA%B5%90%EC%88%98/%EB%B2%94%EC%A3%84"
+        },
+        {
+          "@type": "Event",
+          "name": "두산그룹 인수 — 민주적 학교 운영 폐지",
+          "startDate": "2008-05",
+          "description": "두산그룹이 중앙대 법인을 인수. 인수 후 80일 만에 박용성이 총장직선제를 폐지하고 두산 통제 임명제로 대체. 중앙대는 자치 학술 기관이기를 멈춤.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2024/09/113_31605.html"
+        },
+        {
+          "@type": "Event",
+          "name": "우리은행 100억 원 킥백 의혹",
           "startDate": "2008",
-          "description": "기관의 허위진술과 관련된 주요 스캔들. 대학은 미국법을 활용하면서도 그 가치를 무시했습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "동국대학교(서울, 대한민국)"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/shingate.html"
+          "description": "전 중앙대 총장 박범훈이 우리은행에 캠퍼스 독점 금융 서비스권을 주고 100억 원 '기부금'을 수수한 의혹. 검찰은 일부 자금이 학교에 사용되지 않았다고 밝힘.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori"
         },
         {
           "@type": "Event",
-          "name": "미디어커뮤니케이션 교수 성폭력 사건",
-          "startDate": "2015-11",
-          "description": "교수가 술자리에서 동국대학교 대학원생을 성폭행했습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "동국대학교(서울, 대한민국)"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/2016_dongguk_prof_sexual_assault.html",
-          "keywords": "성폭행, 교수 비리, 인종화된 성폭력"
+          "name": "박범훈 총장의 여학생 성적 대상화 공개 발언",
+          "startDate": "2009-02",
+          "description": "박범훈 총장이 여학생들을 남성 성욕의 대상으로 묘사하는 공개 발언. 오마이뉴스(2009.2.23) 및 경향신문(2009.2.26) 보도.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://en.wikipedia.org/wiki/Chung-Ang_University"
         },
         {
           "@type": "Event",
-          "name": "미디어커뮤니케이션 교수 성폭력 사건 기소",
-          "startDate": "2016-02",
-          "description": "동국대학교 미디어커뮤니케이션 전공 교수가 대학원생 성폭행으로 기소됨. 대학은 지연된 대응과 반응적 접근법을 보였습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "동국대학교(서울, 대한민국)"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/2016_dongguk_prof_sexual_assault.html",
-          "keywords": "성폭력 기소, 제도적 방치"
+          "name": "학생 언론 탄압·활동가 감시",
+          "startDate": "2009",
+          "endDate": "2010",
+          "description": "학교 당국이 비판적 학생 간행물을 탄압. 총학생회가 두산재단의 학생 활동가 감시 의혹으로 소송 제기.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0"
         },
         {
           "@type": "Event",
-          "name": "교수 교체 정책",
-          "startDate": "2016-08",
-          "description": "동국대학교가 언어적 학대나 성폭력을 경험한 학생들이 교수 변경을 요청할 수 있는 조항을 도입했습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "동국대학교(서울, 대한민국)"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/dongguk_exposed_2016_2025.html#1-2016-professor-replacement-policy",
-          "keywords": "정책 개혁, 성폭력 방지"
+          "name": "K 교수 — 대학원생 연쇄 성폭행 + 연구비 횡령",
+          "startDate": "2009",
+          "endDate": "2018",
+          "description": "아시아문화학부 K 교수가 6년 이상 여성 대학원생을 상습 성폭행. 피해자 4명이 2018년 5월 동시 신고. 인권센터 파면 권고. 연구비 횡령도 동시 적발.",
+          "location": { "@type": "Place", "name": "중앙대학교 아시아문화학부, 서울" },
+          "url": "https://www.hankyung.com/article/201806047731Y",
+          "keywords": "성폭행, 연구비 횡령, 중앙대, 아시아문화학부"
         },
         {
           "@type": "Event",
-          "name": "여학생회 폐지",
+          "name": "A 강사, 조소학과 — 여학생 4명 성폭행, 모텔 납치 시도, 5년 은폐",
+          "startDate": "2013-06-12",
+          "endDate": "2018-03-20",
+          "description": "2013년 6월 12~13일 밤, 시간강사 A가 종강 파티에서 여학생 4명을 성폭행하고 모텔로 데려가려 함. 동료 B 교수가 피해자들에게 사적 합의 압박. 대학이 시간강사 신분을 이유로 징계 불가 주장. 5년 은폐 후 2018년 3월 동문회가 공개 폭로.",
+          "location": { "@type": "Place", "name": "중앙대학교 조소학과, 서울" },
+          "url": "https://www.hankyung.com/society/article/201803208255Y",
+          "keywords": "성폭행, 은폐, 시간강사 허점, 중앙대, 조소학과"
+        },
+        {
+          "@type": "Event",
+          "name": "J 교수 — 성폭행 인정; 인사위 징계 지연으로 사직 처리; 러시아 대학 재취업",
+          "startDate": "2014",
+          "description": "J 교수가 성폭행을 인정함. 인사위원회가 정식 징계 전 사직을 허용하도록 절차를 의도적으로 지연. 징계 기록 없이 사직 후 러시아 북동연방대학교에 재취업.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0",
+          "keywords": "성폭행, 징계 회피, 중앙대"
+        },
+        {
+          "@type": "Event",
+          "name": "재단 회계 부정 수사 — 203억 원",
+          "startDate": "2015-04",
+          "description": "중앙대 교육재단이 203억 원 규모의 회계 부정으로 수사. 박용성이 중앙대 재단이사장, 두산중공업 회장, 대한체육회 명예회장직 동시 사임.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html"
+        },
+        {
+          "@type": "Event",
+          "name": "박범훈 체포 — 뇌물·비리·유죄 판결·수감",
+          "startDate": "2015-05",
+          "description": "전 중앙대 총장이자 청와대 교육문화수석 박범훈이 19시간 조사 후 체포. 위장 재단을 통한 18억 원 수수, 부동산 킥백, 교육부에 캠퍼스 통합 압박, 딸 교수 임용 비리 등 혐의. 유죄 판결 후 수감, 2017년 5월 출소.",
+          "location": { "@type": "Place", "name": "서울, 대한민국" },
+          "url": "https://www.koreatimes.co.kr/southkorea/20150501/chung-ang-probe-spills-to-doosan-woori"
+        },
+        {
+          "@type": "Event",
+          "name": "재단이사장이 독어독문학과 여성 교수 실명 지목 협박",
+          "startDate": "2015",
+          "description": "박용성 이사장이 반대 교원 약 20명에게 협박 이메일을 보내며 독어독문학과 여성 교수를 해임 대상으로 실명 지목. 전체 교원 92%가 구조 개편안에 반대한 상황.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://www.koreatimes.co.kr/www/nation/2018/06/113_177508.html"
+        },
+        {
+          "@type": "Event",
+          "name": "L 교수 — J·M 교수와 동일 학과 — 여성 대학원생 성폭행, 해임",
+          "startDate": "2017",
+          "description": "2014년(J)·2018년(M) 사건과 동일한 학과의 L 교수가 여성 대학원생을 성폭행하고 해임(3년 채용 금지). 당시 언론 미보도. 4년간 동일 학과에서 3명의 서로 다른 가해자는 개인 비위가 아닌 학과 문화를 보여줌.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0",
+          "keywords": "성폭행, 해임, 중앙대"
+        },
+        {
+          "@type": "Event",
+          "name": "B 교수, 문화연구학과 — 다수 피해자 신고; 파면 권고",
+          "startDate": "2018-03",
+          "description": "다수의 피해자들이 문화연구학과 B 교수를 반복적인 성폭력으로 신고. 인권센터가 2018년 5월 파면(최고 징계, 영구 채용 금지) 권고.",
+          "location": { "@type": "Place", "name": "중앙대학교 문화연구학과, 서울" },
+          "url": "https://www.news1.kr/society/general-society/3487887",
+          "keywords": "성폭력, 문화연구학과, 중앙대"
+        },
+        {
+          "@type": "Event",
+          "name": "일어일문학과 교수 — 술자리 상습 성추행",
           "startDate": "2018",
-          "description": "MeToo 운동이 절정에 달했을 때, 동국대학교는 여성들을 위한 중요한 옹호 단체였던 여학생회를 폐지했습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "동국대학교(서울, 대한민국)"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/dongguk_exposed_2016_2025.html#2-2018-metoo-movement-abolition-of-the-womens-student-council",
-          "keywords": "제도적 퇴보, 여성 옹호 단체 제거"
+          "description": "중앙대 일어일문학과 교수가 2018년 미투 물결과 함께 술자리에서 학생들을 상습 성추행한 사실이 언론에 보도됨.",
+          "location": { "@type": "Place", "name": "중앙대학교 일어일문학과, 서울" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0",
+          "keywords": "성추행, 술자리, 중앙대, 일어일문학과"
         },
         {
           "@type": "Event",
-          "name": "KWDI 예술 분야 성폭력 보고서",
-          "startDate": "2020",
-          "description": "한국여성정책연구원이 예술 교육 프로그램의 성폭력에 관한 종합 보고서를 발표, 동국대학교를 포함한 구조적 문제를 강조했습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "대한민국"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/kwdi_infographics.html",
-          "keywords": "연구 기록, 성폭력 통계"
+          "name": "M 교수 — 약물 이용 강간; 혐의 부인; 해임 후 연구자 정보에 재직 유지 의혹",
+          "startDate": "2018",
+          "description": "J·L 교수와 동일 학과 M 교수가 피해자를 약물로 무력화한 후 강간. 혐의 전면 부인. 해임(3년 금지) 처분. 나무위키에 따르면 처분 후에도 한국연구자정보에 중앙대 소속으로 계속 등록.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://namu.wiki/w/%EC%A4%91%EC%95%99%EB%8C%80%ED%95%99%EA%B5%90/%EC%82%AC%EA%B1%B4%EC%82%AC%EA%B3%A0",
+          "keywords": "약물 강간, 해임, 중앙대, 한국연구자정보"
         },
         {
           "@type": "Event",
-          "name": "이메일 연락 시작",
-          "startDate": "2025-03-08",
-          "endDate": "2025-03-09",
-          "description": "성폭력 방지 문제에 관한 초기 이메일이 동국대학교에 발송되었으나 응답이 없어 기관의 침묵 패턴이 시작되었습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "동국대학교(서울, 대한민국)"
-          },
-          "keywords": "옹호 활동, 기관의 침묵"
+          "name": "A 교수, 영어영문학과 — 약물 이용 성폭행; 피해자 PTSD 진단; 가해자 피해자 재접촉",
+          "startDate": "2018-11",
+          "description": "영어영문학과 A 교수가 처방 수면제와 음주로 무력화된 여학생을 성폭행. 이후 혐의 부인, 심야 전화 지속, 직접 만남 요청. 피해자 PTSD 진단 및 정신과 치료 시작. 비상대책위원회 조사에서 당일 밤 다른 여학생 최소 2명에게 연락 사실 확인 — 그루밍 패턴.",
+          "location": { "@type": "Place", "name": "중앙대학교 영어영문학과, 서울" },
+          "url": "https://www.news1.kr/society/general-society/3487887",
+          "keywords": "약물 성폭행, PTSD, 영어영문학과, 중앙대"
         },
         {
           "@type": "Event",
-          "name": "교수진 전체 이메일 캠페인",
-          "startDate": "2025-03-14",
-          "endDate": "2025-03-15",
-          "description": "동국대학교 디지털 콘텐츠 및 미디어 대학원의 모든 교수진에게 연락했으나 응답이 없어 집단적 기관 침묵을 보여주었습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "동국대학교(서울, 대한민국)"
-          },
-          "keywords": "교수진 접촉, 집단적 침묵"
+          "name": "A 교수 해임 — 학생들은 파면 요구",
+          "startDate": "2019-06-11",
+          "description": "중앙대가 2019년 6월 11일 영어영문학과 A 교수 최종 해임(3년 채용 금지) 결정을 확인. 학생들은 정문 앞에서 파면(영구 금지) 요구 집회. 1998~2019년 확인된 중앙대 성폭력 가해자 9명 전원에 대해 파면 확인 사례 0건.",
+          "location": { "@type": "Place", "name": "중앙대학교, 서울, 대한민국" },
+          "url": "https://www.news1.kr/society/incident-accident/3648886",
+          "keywords": "해임, 파면, 중앙대, 항의 시위"
         },
         {
           "@type": "Event",
-          "name": "블로그 발행: 동국대학교 폭로",
-          "startDate": "2025-04-05",
-          "description": "Gender Watchdog 블로그가 허위 파트너십 주장과 10년간의 성폭력 사건 및 제도적 방치 패턴의 증거를 발표했습니다.",
-          "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/dongguk_exposed_2016_2025.html",
-          "keywords": "탐사 기록, 파트너십 사기, 인종화된 성폭력"
-        },
-        {
-          "@type": "Event",
-          "name": "Title IX 위험 확대",
-          "startDate": "2025-04-05",
-          "endDate": "2025-04-06",
-          "description": "동국대학교가 Title IX 위험 우려에 '이메일을 보낸 목적이 무엇인가요?'라고 무례하게 응답하여 성폭력 우려에 대응하지 못함을 보여주었습니다.",
-          "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/title_ix_risk_advisory.html",
-          "keywords": "Title IX 위반, 기관의 무례함"
-        },
-        {
-          "@type": "Event",
-          "name": "협력 대학들의 응답",
-          "startDate": "2025-04-07",
-          "description": "동국대학교가 파트너로 나열한 여러 대학들이 응답하기 시작했으며, 캐나다 기관은 '우리는 동국대학교와 학생 교류 협정을 맺고 있지 않습니다'라고 밝혔습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "국제"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/fictional_partnerships_title_ix_dongguk.html",
-          "keywords": "파트너십 검증, 기관 사기"
-        },
-        {
-          "@type": "Event",
-          "name": "대학의 계속되는 침묵",
-          "startDate": "2025-04-06",
-          "description": "동국대학교가 4월 5-6일 이메일 이후 더 이상의 소통을 거부하여 인종화된 성폭력 위험 해결에 대한 기관의 의지 부족을 강화했습니다.",
-          "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
-          },
-          "keywords": "기관의 침묵, 책임 회피"
-        },
-        {
-          "@type": "Event",
-          "name": "블로그 폭로: 허위 파트너십 및 의혹된 세금 사기",
-          "startDate": "2025-05-02",
-          "description": "Gender Watchdog이 동국대학교가 공식적으로 관계를 부인한 대학들과의 파트너십을 계속 허위로 주장하고 있다는 결정적 증거를 발표, 세금 사기 의혹을 제기했습니다.",
-          "location": {
-            "@type": "Organization",
-            "name": "동국대학교"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/false_partners_alleged_taxpayer_fraud.html",
-          "keywords": "세금 사기, 허위 파트너십, 기관 기만"
-        },
-        {
-          "@type": "Event",
-          "name": "25일간의 정부 침묵",
-          "startDate": "2025-05-04",
-          "description": "7개 한국 정부 기관이 파트너십 사기 증거를 받은 후 25일간 완전히 침묵하여 인종화된 성폭력을 가능하게 하는 구조적 조건을 직접 강화했습니다.",
-          "location": {
-            "@type": "Place",
-            "name": "대한민국"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/05102025_korean_govt_slow.html",
-          "keywords": "정부 방치, 체계적 조장"
-        },
-        {
-          "@type": "Event",
-          "name": "IEQAS 인증 위기 폭로",
-          "startDate": "2025-05-12",
-          "description": "조사가 한국 고등교육의 체계적 인종화된 성폭력 문제로 확대되어, 손상된 IEQAS 인증과 외국 여성 타겟팅을 가능하게 하는 남성 전용 교수진이 드러났습니다.",
-          "location": {
-            "@type": "Country",
-            "name": "대한민국"
-          },
-          "url": "https://dongguk.genderwatchdog.org/blog_posts/ko/05152025_ko_horizontal_ieqas.html",
-          "keywords": "체계적 조사, IEQAS 인증, 인종화된 타겟팅"
+          "name": "파트너 페이지 공백: 아주대·홍익대 — 2026년 3월",
+          "startDate": "2026-03-08",
+          "description": "Gender Watchdog가 2026년 3월 8일 아주대학교와 홍익대학교의 공식 협력대학 페이지 스크린샷을 캡처. 두 페이지 모두 중앙대와의 활성 파트너십 미표시. 동국대 허위 파트너십 문서와 동일한 패턴.",
+          "location": { "@type": "Place", "name": "대한민국" },
+          "url": "https://chungang.genderwatchdog.org/blog_posts/ko/cau_partner_pages_blank.html",
+          "keywords": "파트너십, 허위 주장, 아주대, 홍익대, 중앙대"
         }
       ]
     }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Gender Watchdog",
-    "url": "https://dongguk.genderwatchdog.org/",
-    "logo": "https://dongguk.genderwatchdog.org/imgs/favicons/gender_watchdog_favicon_128x128.png",
-    "description": "한국 대학과 영화 산업에서의 인종화된 성폭력을 기록하고 대항합니다. 학계와 산업 모두에게 책임을 요구합니다.",
-    "sameAs": [
-      "https://x.com/Gender_Watchdog",
-      "https://blog.genderwatchdog.org/",
-      "https://metookorea2025.genderwatchdog.org/",
-      "https://www.youtube.com/@GenderWatchdog"
-    ],
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "advocacy"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "이 타임라인은 무엇을 기록하나요?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "이 인터랙티브 타임라인은 2008년부터 2025년까지 동국대학교의 10년간 인종화된 성폭력 사건, 제도적 방치, 공적 자금 사기 의혹을 기록합니다. 각 타임라인 이벤트는 특히 중국과 동남아시아 출신 외국 여성에 대한 체계적 타겟팅과 제도적 대응 실패의 증거가 담긴 상세한 기록으로 연결됩니다."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "각 타임라인 이벤트에 대한 자세한 정보는 어떻게 확인할 수 있나요?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "타임라인 이벤트를 클릭하면 증거, 분석, 다국어 콘텐츠가 포함된 종합적인 블로그 포스트 기록에 접근할 수 있습니다. 각 이벤트는 한국어, 영어, 일본어, 중국어(간체 및 번체)로 제공되는 전체 기사 링크를 포함합니다."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "동국대학교의 인종화된 성폭력 주장을 뒷받침하는 증거는 무엇인가요?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "증거에는 다음이 포함됩니다: 동국대학교 영화과가 81/100의 성폭력 위험 점수(연구된 프로그램 중 최고)를 보인 한국여성정책연구원 연구, 지연된 기관 대응을 보인 교수 성폭력 사건 기록, MeToo 운동 중 여학생회 폐지, 외국 학생을 타겟으로 한 허위 파트너십 주장, 외국 여성에게 불균형적으로 영향을 미치는 체계적 타겟팅 패턴."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "왜 특별히 '인종화된' 성폭력에 초점을 맞추나요?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "한국은 전 세계적으로 인종차별에서 5위로 최악의 순위를 기록했습니다(US News & World Report). 증거는 인종적 고정관념에 기반한 외국 여성에 대한 체계적 타겟팅, 취약한 외국 학생을 모집하기 위한 허위 국제 파트너십 사용, 외국 피해자를 특별히 불리하게 만드는 제도적 장벽을 보여줍니다. 이는 고립된 성폭력이 아닙니다 - 인종차별과 성폭력이 교차하는 인종화된 타겟팅입니다."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "한국 유학을 고려하는 국제 학생들이 알아야 할 것은 무엇인가요?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "국제 학생, 특히 여성들은: 입학 전 주장된 대학 파트너십을 독립적으로 확인하고, 성폭력 통계와 기관 대응 기록을 조사하며, 일부 한국 대학이 허위 파트너십 주장을 모집 도구로 사용할 수 있음을 이해하고, 지원 조직과 조기에 연결하며, 인종화된 성폭력에 직면한 외국 학생에 대한 기관 보호가 부적절할 수 있음을 인식해야 합니다."
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "동국대학교의 진실: 인종화된 성폭력 타임라인",
-    "url": "https://dongguk.genderwatchdog.org/timeline_ko.html",
-    "description": "한국 대학의 체계적 인종화된 성폭력과 제도적 실패를 기록하는 인터랙티브 타임라인",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Gender Watchdog"
-    },
-    "inLanguage": ["ko", "en", "ja", "zh-CN", "zh-TW"]
   }
 ]

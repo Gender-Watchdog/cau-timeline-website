@@ -1,6 +1,6 @@
-title: "Dongguk Exposed"
-description: "Investigating academic fraud, fake global partnerships, and institutional negligence at Dongguk University."
-url: "https://dongguk.genderwatchdog.org"
+title: "CAU Exposed: Sexual Violence, Financial Crimes & Institutional Failure"
+description: "Documenting sexual violence, Doosan governance corruption, and institutional cover-ups at Chung-Ang University (CAU), Seoul, Korea."
+url: "https://chungang.genderwatchdog.org"
 baseurl: ""
 permalink: /:path/:basename:output_ext
 
@@ -9,4 +9,4 @@ defaults:
       path: ""
     values:
       layout: "default"
-exclude: ['.venv', 'vendor']
+exclude: ['.venv', 'vendor', 'docs', 'timeline.md', 'Gemfile', 'Gemfile.lock', 'copilot-instructions.md']
