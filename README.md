@@ -79,12 +79,6 @@ bundle exec jekyll serve
 
 ---
 
-## Legacy Dongguk Content
-
-The original Dongguk University timeline content is preserved on the `dongguk-legacy` branch of this repository.
-
----
-
 ## Contact
 
 For tips, corrections, or collaboration: through [Gender Watchdog](https://genderwatchdog.org).
